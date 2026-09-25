@@ -8,3 +8,6 @@ layout: default
 # Контакты
 - email: st154667@student.spbu.ru
 - telegram: [@sub5_ltn](https://t.me/sub5_ltn)
+
+# Одногруппники
+- Борисов Александр, st156328@student.spbu.ru, https://whylaa.github.io/course_spbu/
